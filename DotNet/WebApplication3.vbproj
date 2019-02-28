@@ -180,6 +180,10 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="fonts\1 %282%29.jpg" />
+    <Content Include="fonts\13.jpg" />
+    <Content Include="fonts\14.jpg" />
+    <Content Include="fonts\20.jpg" />
     <Content Include="fonts\border-design-flower-background-floral-border-chart-paper-border-designs-easy.jpg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\school-office-supplies-school-background-colored-pencils-pen-pains-paper-school-student-education-wooden-96980734.jpg" />
